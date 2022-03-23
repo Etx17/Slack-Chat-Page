@@ -1,0 +1,16 @@
+.online-badge{
+  height: 12px;
+  width: 12px;
+  background-color:#1DE5BD;
+  border: 1px solid rgba(0, 0, 0, 1);
+  border-radius: 50%;
+
+}
+
+.offline-badge{
+  height: 12px;
+  width: 12px;
+  background-color:#969393;
+  border: 1px solid rgba(0, 0, 0, 1);
+  border-radius: 50%;
+}
